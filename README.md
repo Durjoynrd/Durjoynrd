@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durjoynrd
 - 👀 I’m interested in ... Sports (Football, Cricket, F1), Watching Docuseries, Photography.
-- 🌱 I’m currently learning ... Python, SQL, Excel (Macro), UX, Tableau, PowerBI 
+- 🌱 I’m currently learning ... Python, SQL, Excel (Macro), UX, Tableau, Power bi 
 - 💞️ I’m looking to collaborate on ... Data Analytics & UI|UX Projects
 - 📫 How to reach me ... durjoynrd@gmail.com
 - 😄 Pronouns: ... He
